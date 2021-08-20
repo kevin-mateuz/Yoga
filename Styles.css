@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background:  #E5E5E5;
+}
+
+#link-1{
+    width: 102px;
+    height: 15px;
+    font-size: 13px;
+    line-height: 15px;
+    display: block;
+    text-align: right;
+    margin: 20px 246px;
+    color: #000000;
+    cursor: pointer;
+    text-decoration-line: none;  
+}
+
+#link-2{
+font-size: 15px;
+line-height: 18px;
+width: 240px;
+height: 18px;
+cursor: pointer;
+text-decoration-line: none;
+
+color: #969696;
+}
+
+b{
+    color: black;
+}
+
+p{
+    width: 128px;
+height: 29px;
+color: #000000;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+    margin: 20px auto 20px ;
+}
+
+button{
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    display: block;
+    margin: 25px auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+color: #E5E5E5;
+    background: #323232;
+box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+border-radius: 10px;
+transition: .5s;
+cursor: pointer;
+}
+input{
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border: none;
+    margin: 21px auto ;
+    display: block;
+    color:#F6F6F6;
+}
+
+input ::placeholder{
+display: block;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+text-align: left;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.logo{
+    display: block;
+    margin: 195px auto 122.65px auto;
+}
+
+#img{
+    margin: auto auto 80.5px;
+      
+    text-align: center;
+}
+.time{
+    text-align: left;
+    height: auto; 
+    width: auto; 
+    max-width: 30px; 
+    max-height: 30px;
+    
+    margin-left: 10px;
+
+    
+
+color: #000000;
+
+}
+
+.wi-fi{
+    width: 18px;
+    height: 18px;
+    background-color:  #E5E5E5;
+    margin-left: 255px; 
+    text-align: center;
+    
+   
+}
+
+.conection{
+    width: 18px;
+    height: 18px;
+    background-color: #E5E5E5;
+         
+    text-align: center;
+
+}
+
+
+.batery{
+    text-align: right;
+    color: #000000;
+    margin-right: 5px;
+     
+    
+    text-align: center;
+
+}
